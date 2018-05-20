@@ -13,8 +13,8 @@ var autoconfig  = function (config_overrides){
   })
 
   var ws_info = {
-    id: "ALL-THE-nationalparks-js",
-    displayName: "ALLTHE National Parks and whatnot (JS)",
+    id: "DAMMIT-nationalparks-js",
+    displayName: "DAMMIT National Parks dammit (JS)",
     type: "cluster",
     center: {'latitude': '47.039304', 'longitude': '14.505178'},
     zoom: 4
